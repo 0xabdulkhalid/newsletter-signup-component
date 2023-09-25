@@ -62,7 +62,7 @@
 
 - |||
   | :----- | :----- |
-  | Solution URL: | [To be posted :hourglass_flowing_sand:](#link) |
+  | Solution URL: | [NEWSLETTER SIGNUP 🎯 [ ACCESSIBLE - BEM - CSS3 - REGEXP - ES6 ]](https://www.frontendmentor.io/solutions/newsletter-signup-accessible-bem-css3-regexp-es6-rEEtvBgzkh) |
   | Live Site URL: | [https://0xabdulkhalid.github.io/newsletter-signup-component/](https://0xabdulkhalid.github.io/newsletter-signup-component/) |
   |||
 
